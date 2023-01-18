@@ -1,5 +1,6 @@
-# Greetings
-## I'm here to share my new dev life, and search for inspiration and cooperative interections. So lets do it!  
+# Greetings  
+
+I'm here to share my new dev life, and search for inspiration and cooperative interections. So lets do it!  
 
 * 🔭 I’m currently working as intern on IFRN, into a administration tool called Farol de Desempenho, based on BSC model.
 * 🌱 I’m currently learning english first, Web Development for fun, math and other IT stuffs for college.
