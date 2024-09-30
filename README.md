@@ -7,7 +7,7 @@ Searching for inspiration and cooperative interections. So let's do it!
 * 🔭 I’m currently working as intern on IFRN, with an administration tool called Farol de Desempenho, based on BSC model.
 * 🌱 I’m currently learning english, Web Development for fun, math and other IT stuffs for college.
 * 📫 How to reach me: jeanascimento993@gmail.com
-* ⚡ Fun fact: A long time ago, I used to be a Portuguese teacher, just beacause I love literature.
+* ⚡ Fun fact: A long time ago, I used to be a Portuguese teacher, beacause I love literature.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jeancarlo993&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeancarlo993&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
